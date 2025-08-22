@@ -1,0 +1,6 @@
+name = input("What is your name?")
+print("Hi," + name + "!")
+print(name + " " + "is a quite nice name" + "!")
+addr = input("What is your home address?")
+print("So you live at address " + addr + " right?")
+confaddr = input("Please confirm your home address:")
